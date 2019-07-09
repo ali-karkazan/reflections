@@ -31,3 +31,7 @@ What are some situations when branches would be helpful in keeping your history 
 	- git branch:  					will show how many branches are there on your repo
 	- git branch {branch name}: 	create a new branch of your repo 
 	- git checkout {branch name}:   will move to the branch 
+
+Viewing the commit history
+The full command Caroline types to see the visual representation of the commit history is 
+			git log --graph --oneline master coins
