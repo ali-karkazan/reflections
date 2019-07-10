@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work local?
+ how to move a local repo to git hub
+ 
+1- git remote add origin [url : https from the repo in github]
+2 - git push origin master 
